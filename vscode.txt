@@ -1,0 +1,7 @@
+ctrl+shift+p: command palette
+
+
+ctrl+p: open file
+ctrl+shift+f: search in files
+
+window.zoomLevel in config
